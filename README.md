@@ -18,7 +18,7 @@ It works for any set of perfume brands: heritage luxury maisons, designer houses
 
 **Claude Code**
 ```bash
-git clone https://github.com/<you>/fragrance-positioning-skill.git
+git clone https://github.com/sapmb20/fragrance-positioning-skill.git
 cp -r fragrance-positioning-skill/fragrance-house-positioning ~/.claude/skills/
 ```
 
